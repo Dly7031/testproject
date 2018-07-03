@@ -1,0 +1,44 @@
+body{
+    font-family: sans-serif font;
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+.theWordW::first-letter{
+    font-size: 80px;
+}
+header img{
+    float: left;
+}
+header h2{
+    text-indent: 30px;
+    font-weight: bold;
+    color: orange;
+    font-style: italic;
+    text-shadow: 2px 0px;
+    }
+header h3{
+    text-indent: 30px;
+    font-weight: bold;
+}
+main ul li a{
+    color: orange;
+    font-weight: bold;
+    margin: 10px;
+    margin-bottom: 2px;
+}
+a:hover{
+color: green;
+}
+footer{
+    text-align: center;
+}
